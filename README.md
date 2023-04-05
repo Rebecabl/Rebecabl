@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&¨color=C71585&height=120&section=header"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rebecabl&bg_color=ff0088&color=ffffff&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
