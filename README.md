@@ -1,6 +1,6 @@
-#  Bem-vindo ao meu perfil! ⭐
 
-Estudante de Ciência da Computação na Universidade Estadual da Paraíba, com foco em análise de dados e machine learning.
+
+Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba, com foco em análise de dados e machine learning.
 
 ## Tecnologias e Ferramentas em estudo
 
