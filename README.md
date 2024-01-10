@@ -1,6 +1,6 @@
 
 
-Sou estudante de Ciência da Computação na Universidade Estadual da Paraíba, com foco em análise de dados e machine learning.
+Graduanda em Ciência da Computação na Universidade Estadual da Paraíba, com foco em análise de dados e machine learning.
 
 ## Tecnologias e Ferramentas em estudo
 
