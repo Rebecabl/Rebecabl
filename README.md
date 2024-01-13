@@ -1,6 +1,5 @@
 
-Graduanda em Ciência da Computação na Universidade Estadual da Paraíba, com foco em análise de dados e machine learning.
-
+Graduanda em Ciência da Computação na Universidade Estadual da Paraíba, com foco em análise na área de Dados.
 ## Tecnologias e Ferramentas de estudo
 
 ### Bancos de Dados
