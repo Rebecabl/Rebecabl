@@ -1,4 +1,4 @@
-# 🚀 Tech Explorer's Toolkit
+# Tech Explorer's Toolkit
 
 Hello fellow technology enthusiasts! 👋 Here's a sneak peek of my versatile study toolkit:
 
