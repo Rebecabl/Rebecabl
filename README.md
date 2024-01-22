@@ -1,7 +1,6 @@
 # Tech Explorer's Toolkit
 
-Hello fellow technology enthusiasts! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
- Here's a sneak peek of my study toolkit:
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello fellow technology enthusiasts! Here's a sneak peek of my study toolkit:
 
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
