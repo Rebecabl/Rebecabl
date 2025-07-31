@@ -15,5 +15,9 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gi
 
 Gosto de escrever sobre tecnologia de forma prática e objetiva. Aqui estão alguns artigos que produzi:
 
-🔗 [Entendendo Técnicas e Análise de Algoritmos: Fundamentos](https://github.com/Rebecabl/analise-de-algoritmos)  
+🔗 [Entendendo Técnicas e Análise de Algoritmos: Fundamentos](https://github.com/Rebecabl/analise-de-algoritmos)   
 Artigo explicando o que é um algoritmo, sua importância, principais características, exemplos práticos e as técnicas fundamentais para construção e análise, incluindo conceitos de complexidade e notação Big O.
+
+
+🔗 [Fundamentos e Paradigmas das Linguagens de Programação](https://github.com/Rebecabl/paradigmas-de-programacao/edit/main/README.md)   
+Este artigo aborda os fundamentos das linguagens de programação, explorando a definição e caracterização dos principais paradigmas de programação, bem como a prática de programação associada a esses paradigmas
