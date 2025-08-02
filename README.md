@@ -20,4 +20,4 @@ Artigo explicando o que é um algoritmo, sua importância, principais caracterí
 
 
 🔗 [Fundamentos e Paradigmas das Linguagens de Programação](https://github.com/Rebecabl/paradigmas-de-programacao)   
-Este artigo aborda os fundamentos das linguagens de programação, explorando a definição e caracterização dos principais paradigmas de programação, bem como a prática de programação associada a esses paradigmas
+Este artigo aborda os fundamentos das linguagens de programação, explorando a definição e caracterização dos principais paradigmas de programação, bem como a prática de programação associada a esses paradigmas.
