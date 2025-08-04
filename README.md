@@ -1,11 +1,9 @@
+![Banner Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=190&color=C71585&text=Hello,%20Technology%20enthusiasts!&fontColor=F5FFFA&fontSize=40&textBg=false&section=header&reversal=true&descAlign=50&descAlignY=61&fontAlign=64&fontAlignY=32)
 
 
 
 <img 
-src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello fellow technology enthusiasts! Here's a sneak peek of my study toolkit:
-
-
-  Sou cientista da computação formada pela Universidade Estadual da Paraíba, com foco em desenvolvimento FullStack. Atualmente, sou professora universitária na mesma instituição, lecionando nas disciplinas de Lab Engenharia de Software, Técnicas e Análise de Algoritmos e Paradigmas de Linguagens de Programação.  Minha atuação é focada em atividades práticas, desenvolvimento de projetos, orientação de alunos e aplicação de conteúdos técnicos em ambiente de laboratório.
+src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello fellow technology enthusiasts! Sou a Rebeca, Cientista da computação formada pela Universidade Estadual da Paraíba, com foco em desenvolvimento FullStack. Atualmente, sou professora universitária na mesma instituição, lecionando nas disciplinas de Lab Engenharia de Software, Técnicas e Análise de Algoritmos e Paradigmas de Linguagens de Programação.  Minha atuação é focada em atividades práticas, desenvolvimento de projetos, orientação de alunos e aplicação de conteúdos técnicos em ambiente de laboratório.
 
   Tenho outros espaços especiais onde compartilho minha trajetória na tecnologia. No GitHub, pelo espaço [rebecabl-study](https://github.com/rebecabl-study), você encontra resumos, anotações, desafios resolvidos e projetos que refletem minha evolução nos estudos.  No  Studygram [@dev.beca](https://www.instagram.com/dev.beca/) é onde mostro minha rotina de estudos, dicas de organização e momentos do dia a dia que motivam minha jornada tech. Já no [Medium](https://medium.com/@rebecallourenco7), publico artigos e reflexões mais aprofundadas sobre programação, governança e desenvolvimento, buscando cada vez mais entender os conceitos por trás do código.  💜
 
@@ -33,6 +31,8 @@ Este artigo aborda os fundamentos das linguagens de programação, explorando a 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rebecabl/Rebecabl/output/pacman-contribution-graph.svg">
   <img src="https://raw.githubusercontent.com/Rebecabl/Rebecabl/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
 </picture>
+
+![Banner Capsule Render](https://capsule-render.vercel.app/api?type=waving&width=800&height=120&color=C71585&fontColor=F5FFFA&fontSize=40&textBg=false&section=footer&reversal=true&descAlign=50&descAlignY=61&fontAlign=57&fontAlignY=32)
 
 
 
