@@ -27,3 +27,13 @@ Este artigo aborda os fundamentos das linguagens de programação, explorando a 
 
 
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rebecabl/Rebecabl/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rebecabl/Rebecabl/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/Rebecabl/Rebecabl/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
+</picture>
+
+
+
+
