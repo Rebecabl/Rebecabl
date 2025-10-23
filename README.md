@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:e61c9b,100:10002B&text=Olá,%20sou%20a%20Rebeca!🤍&fontColor=F5FFFA&fontSize=40&textBg=false&reversal=true&descAlign=50&descAlignY=61&fontAlign=74&fontAlignY=32" />
 
 ## ****Sobre mim****
-**Cientista da Computação** formada pela Universidade Estadual da Paraíba, com foco em **desenvolvimento FullStack** e atuação também como **professora universitária** na mesma instituição [UEPB]. Leciono disciplinas práticas como **Laboratório de Engenharia de Software**, **Técnicas e Análise de Algoritmos** e **Paradigmas de Linguagens de Programação**, sempre priorizando a aplicação real dos conceitos em sala de aula e laboratório.
+**Cientista da Computação** formada pela Universidade Estadual da Paraíba, com foco em **desenvolvimento FullStack** e atuação também como **professora universitária** na mesma instituição [UEPB]. Leciono disciplinas práticas como **Laboratório de Engenharia de Software**, **Técnicas e Análise de Algoritmos** e **Paradigmas de Programação**, sempre priorizando a aplicação real dos conceitos em sala de aula e laboratório.
 
 
 ✨ Compartilho minha trajetória na tecnologia em diferentes plataformas:
