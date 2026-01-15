@@ -3,13 +3,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:e61c9b,100:10002B&text=Olá,%20sou%20a%20Rebeca!🤍&fontColor=F5FFFA&fontSize=40&textBg=false&reversal=true&descAlign=50&descAlignY=61&fontAlign=74&fontAlignY=32" />
 
 ## ****Sobre mim****
-**Cientista da Computação (UEPB). Desenvolvedora Full Stack com ênfase em back-end e professora universitária na UEPB. Leciono Laboratório de Engenharia de Software, Técnicas e Análise de Algoritmos e Paradigmas de Programação, sempre levando prática de mercado para sala e laboratório.**
+**Cientista da Computação (UEPB). Desenvolvedora Full Stack com ênfase em back-end, professora universitária na UEPB e pós-graduanda em Engenharia de Software. Leciono Laboratório de Engenharia de Software, Técnicas e Análise de Algoritmos e Paradigmas de Programação, sempre levando a prática de mercado para a sala de aula e para o laboratório.**
 
 
 ✨ Compartilho minha trajetória na tecnologia em diferentes plataformas:
 
 - No repositório [**rebecabl-study**](https://github.com/rebecabl-study), reúno **resumos**, **anotações**, **desafios resolvidos** e **projetos** que acompanham minha evolução nos estudos e na prática de desenvolvimento.
--  No Studygram [**@dev.beca**](https://www.instagram.com/dev.beca/), divido minha **rotina de estudos**, **dicas de organização** e registros do dia a dia que inspiram minha jornada tech.
 - No [**Medium**](https://medium.com/@rebecallourenco7), publico **artigos e reflexões técnicas** sobre **programação**, **governança** e **desenvolvimento de software**, buscando compreender cada vez mais os fundamentos por trás do código.
 
 <picture>
