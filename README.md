@@ -3,7 +3,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:e61c9b,100:10002B&text=Olá,%20sou%20a%20Rebeca!🤍&fontColor=F5FFFA&fontSize=40&textBg=false&reversal=true&descAlign=50&descAlignY=61&fontAlign=74&fontAlignY=32" />
 
 ## ****Sobre mim****
-**Cientista da Computação (UEPB). Desenvolvedora Full Stack, instrutora de Java e pós-graduanda em Engenharia de Software.**
+**Cientista da Computação (UEPB), Desenvolvedora Full Stack, Instrutora de Java, MBA em Gestão de Projetos e Metodologias Ágeis e pós-graduanda em Engenharia de Software.**
+
 
 
 ✨ Compartilho minha trajetória na tecnologia em diferentes plataformas:
