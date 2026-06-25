@@ -11,7 +11,7 @@ I'm the founder and coordinator of **Mulheres da Ciência (MDC UEPB)**, an outre
 
 **Open to:** Open Source, Research, and Software Engineering projects.
 
-I enjoy designing and building software, solving real-world problems, sharing knowledge, and contributing to educational initiatives.
+I enjoy designing and building software, solving real-world problems, sharing knowledge.
 
 ## Tech Stack
 
@@ -54,5 +54,5 @@ I enjoy designing and building software, solving real-world problems, sharing kn
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:E61C9B,100:FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:E61C9B,50:E61C9B,85:F7A8D5,100:FFFFFF"/>
 ```
