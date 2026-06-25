@@ -5,6 +5,8 @@
 
 I'm a Full Stack Developer, Computer Science graduate from UEPB, Java Instructor, and currently pursuing a postgraduate degree in Software Engineering. I also hold an MBA in Project Management and Agile Methodologies.
 
+I'm the **Founder and Coordinator of MDC UEPB (Women in Computing)**, an outreach initiative dedicated to encouraging and supporting women in technology. In addition, I serve as an **Ambassador for the Meninas na Computação Program (SBC)**, contributing to initiatives that promote diversity and inclusion in computing.
+
 **Current focus:** Artificial Intelligence and Cloud Computing.
 
 Beyond building software, I enjoy documenting my learning journey and sharing technical knowledge.
@@ -35,7 +37,7 @@ Beyond building software, I enjoy documenting my learning journey and sharing te
 ![Jira](https://img.shields.io/badge/Jira-E61C9B?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-E61C9B?style=for-the-badge&logo=figma&logoColor=white)
 
-## Connect with Me
+## Let's Connect
 
 <p align="center">
 
@@ -54,4 +56,3 @@ Beyond building software, I enjoy documenting my learning journey and sharing te
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:E61C9B,100:FFFFFF"/>
-
