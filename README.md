@@ -1,18 +1,17 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E61C9B&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋;Software+Developer;Java+Instructor;Computer+Science+Instructor;Passionate+about+Technology;Always+learning,+always+building;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E61C9B&size=35&center=true&vCenter=true&width=1000&lines=Hi!+;Software+Developer;Java+Instructor;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ## About Me
 
-I'm a Full Stack Developer, Computer Science graduate from UEPB, Java Instructor, and currently pursuing a postgraduate degree in Software Engineering. I also hold an MBA in Project Management and Agile Methodologies.
+I'm a Software Developer and Computer Science graduate from UEPB, currently working as a Java Instructor while pursuing a postgraduate degree in Software Engineering. I also hold an MBA in Project Management and Agile Methodologies.
 
-I'm the **Founder and Coordinator of MDC UEPB (Women in Computing)**, an outreach initiative dedicated to encouraging and supporting women in technology. In addition, I serve as an **Ambassador for the Meninas na Computação Program (SBC)**, contributing to initiatives that promote diversity and inclusion in computing.
+I'm the founder and coordinator of **Mulheres da Ciência (MDC UEPB)**, an outreach initiative dedicated to encouraging and supporting women in STEM. I also serve as an **MFP Ambassador (Maratona Feminina de Programação – SBC)**.
 
 **Current focus:** Artificial Intelligence and Cloud Computing.
 
-Beyond building software, I enjoy documenting my learning journey and sharing technical knowledge.
+**Open to:** Open Source, Research, and Software Engineering projects.
 
-- **[rebecabl-study](https://github.com/rebecabl-study):** A repository where I document my learning through study notes, summaries, solved challenges, and personal projects.
-- **[Medium](https://medium.com/@rebecallourenco7):** Articles about programming, software engineering, and IT governance.
+I enjoy designing and building software, solving real-world problems, sharing knowledge, and contributing to educational initiatives.
 
 ## Tech Stack
 
@@ -56,3 +55,4 @@ Beyond building software, I enjoy documenting my learning journey and sharing te
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:E61C9B,100:FFFFFF"/>
+```
