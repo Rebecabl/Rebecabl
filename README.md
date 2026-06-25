@@ -1,21 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E61C9B&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋;Software+Developer;Java+Instructor;Computer+Science+Professor;Passionate+about+Technology;Always+learning,+always+building;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-## ****Sobre mim****
-**Cientista da Computação (UEPB), Desenvolvedora Full Stack, Instrutora de Java, MBA em Gestão de Projetos e Metodologias Ágeis e pós-graduanda em Engenharia de Software.**
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E61C9B&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋;Software+Developer;Java+Instructor;Computer+Science+Instructor;Passionate+about+Technology;Always+learning,+always+building;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
+## About Me
 
-✨ Compartilho minha trajetória na tecnologia em diferentes plataformas:
+I'm a Full Stack Developer, Computer Science graduate from UEPB, Java Instructor, and currently pursuing a postgraduate degree in Software Engineering. I also hold an MBA in Project Management and Agile Methodologies.
 
-- No repositório [**rebecabl-study**](https://github.com/rebecabl-study), reúno **resumos**, **anotações**, **desafios resolvidos** e **projetos** que acompanham minha evolução nos estudos e na prática de desenvolvimento.
-- No [**Medium**](https://medium.com/@rebecallourenco7), publico **artigos e reflexões técnicas** sobre **programação**, **governança** e **desenvolvimento de software**, buscando compreender cada vez mais os fundamentos por trás do código.
+**Current focus:** Artificial Intelligence and Cloud Computing.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rebecabl/Rebecabl/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rebecabl/Rebecabl/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/Rebecabl/Rebecabl/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
-</picture>
+Beyond building software, I enjoy documenting my learning journey and sharing technical knowledge.
 
+- **[rebecabl-study](https://github.com/rebecabl-study):** A repository where I document my learning through study notes, summaries, solved challenges, and personal projects.
+- **[Medium](https://medium.com/@rebecallourenco7):** Articles about programming, software engineering, and IT governance.
 
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-E61C9B?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-E61C9B?style=for-the-badge&logo=spring&logoColor=white)
@@ -38,11 +35,23 @@
 ![Jira](https://img.shields.io/badge/Jira-E61C9B?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-E61C9B?style=for-the-badge&logo=figma&logoColor=white)
 
+## Connect with Me
 
+<p align="center">
 
+<a href="https://www.linkedin.com/in/rebecabarbosalourenco/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logoColor=E61C9B&labelColor=FFFFFF&color=FFFFFF" alt="LinkedIn"/>
+</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
+<a href="https://www.instagram.com/barbosareb/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E61C9B&labelColor=FFFFFF&color=FFFFFF" alt="Instagram"/>
+</a>
 
+<a href="mailto:rebecablourenco17@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=E61C9B&labelColor=FFFFFF&color=FFFFFF" alt="Gmail"/>
+</a>
 
+</p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:E61C9B,100:FFFFFF"/>
 
